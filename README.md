@@ -1,7 +1,9 @@
-📚 Hello World JavaScript
+#📚 Hello World JavaScript#
 Este repositório foi criado para documentar meu progresso e aprendizados durante o Curso de JavaScript do professor Gustavo Guanabara, disponibilizado pelo Curso em Vídeo.
 
-🎯 Objetivo
+--- 
+
+##🎯 Objetivo ##
 Registrar de forma organizada cada etapa da minha jornada de aprendizado em JavaScript, incluindo:
 
 Exercícios propostos no curso
@@ -12,7 +14,9 @@ Anotações e observações pessoais
 
 Experimentos e testes com código
 
-📅 Estrutura do Curso
+---
+
+##📅 Estrutura do Curso##
 O curso possui 40 horas de conteúdo, dividido em módulos:
 
 Módulo A: Conhecendo o JavaScript
@@ -27,7 +31,9 @@ Módulo E: Repetições em JavaScript
 
 Módulo F: Avançando os estudos em JavaScript
 
-🛠 Tecnologias Utilizadas
+---
+
+##🛠 Tecnologias Utilizadas ##
 JavaScript
 
 HTML5
@@ -36,6 +42,8 @@ CSS3
 
 Node.js (opcional, para testes e execução local)
 
-📌 Observações
+---
+
+##📌 Observações##
 Este repositório tem caráter educacional e serve como portfólio do meu desenvolvimento na linguagem.
 Não é um projeto finalizado, mas sim um registro contínuo da minha evolução.
